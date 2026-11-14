@@ -1,22 +1,31 @@
-PORTFÓLIO RPG — PROJETO COMPLETO
+# Portfólio — Vitória Melo
 
-ESTRUTURA
-- app/page.tsx: página e interações do portfólio
-- app/globals.css: estilos e responsividade
-- app/layout.tsx: layout e metadados do Next.js
-- public/avatar.png: imagem de perfil
-- package.json / package-lock.json: dependências
-- tailwind.config.js / postcss.config.js / tsconfig.json: configurações
+Portfólio pessoal desenvolvido para apresentar minha trajetória acadêmica em Engenharia de Software, projetos de pesquisa científica, iniciativas de extensão e participações em eventos de tecnologia.
 
-COMO EXECUTAR
-1. Extraia a pasta portfolio-vitoria-completo.
-2. Abra o terminal dentro dessa pasta (a pasta que contém package.json).
-3. Execute: npm install
-4. Execute: npm run dev
-5. Abra: http://localhost:3000
+🔗 **Acesse o projeto online:** [vitoria-melo.vercel.app](https://vitoria-melo.vercel.app) *(atualize com seu link após o deploy)*
 
-REQUISITOS
-Node.js e npm instalados.
+---
 
-Não inclua node_modules nem .next no ZIP: essas pastas são recriadas localmente.
-A stack aparece apenas na faixa flutuante; a seção inferior de tecnologias em cards foi removida.
+## 🚀 Tecnologias Utilizadas
+
+* **Framework:** [Next.js](https://nextjs.org/) (App Router)
+* **Linguagem:** [TypeScript](https://www.typescriptlang.org/)
+* **Estilização:** [Tailwind CSS](https://tailwindcss.com/)
+* **Deploy:** Vercel
+
+---
+
+## 📌 Seções em Destaque
+
+* **Formação Acadêmica:** Bacharelado em Engenharia de Software no IFPE — Campus Belo Jardim.
+* **Pesquisa Científica (PIBIC-AF):** Desenvolvimento de tecnologia assistiva e treinamento de redes neurais para reconhecimento de padrões da Libras.
+* **Projetos de Extensão:** Atuação como ministrante nos projetos *Iniciação à Programação com Python* e *GirliES: Introdução à Engenharia de Software para Meninas*.
+* **Eventos e Palestras:** Apresentação de trabalho no XXI CONIC (2026) e condução da oficina *"Minha Marca na Tech: Criando Meu Primeiro Portfólio"* na SNCT 2026.
+
+---
+
+## 💻 Como rodar localmente
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/Vih007/vitoria-melo.git](https://github.com/Vih007/vitoria-melo.git)
